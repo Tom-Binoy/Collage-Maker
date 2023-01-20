@@ -1,0 +1,14 @@
+body{
+    background:url(bgi.png);
+}
+.d{
+    border-width: 5px;
+    height: 200px;
+    width: 300px;
+    border-color: rgb(21, 21, 224);
+    border-style: ridge;
+    background-color: wheat;
+}
+.s{
+    display: inline-block;
+}
