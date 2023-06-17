@@ -14,7 +14,7 @@ Webcam.set({
 
 Webcam.attach(cam);
 
-function startt(){
+function save(){
      spr.start()
 }
      spr.onresult = function run(event){
