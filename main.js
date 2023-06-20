@@ -12,7 +12,7 @@ Webcam.set({
     png_quality : 90 
 })
 
-Webcam.attach(cam);
+Webcam.attach("#cam");
 
 function save(){
      spr.start()
